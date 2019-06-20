@@ -1,5 +1,22 @@
 {
   "scripts": {
     "test": "node tests/run.js"
-  }
+  },
+  "name": "jquery-timer",
+  "description": "Basically setTimeout with more options.",
+  "version": "1.0.0",
+  "main": "jquery.timer.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenssamson/jquery-timer.git"
+  },
+  "author": "Jason Chavannes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenssamson/jquery-timer/issues"
+  },
+  "homepage": "http://jchavannes.com/jquery-timer/demo"
 }
